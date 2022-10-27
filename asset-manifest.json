@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ipfs_chat/static/css/main.795dd5c0.css",
+    "main.js": "/ipfs_chat/static/js/main.42acb529.js",
+    "static/js/27.d4c2105a.chunk.js": "/ipfs_chat/static/js/27.d4c2105a.chunk.js",
+    "index.html": "/ipfs_chat/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.795dd5c0.css",
+    "static/js/main.42acb529.js"
+  ]
+}
